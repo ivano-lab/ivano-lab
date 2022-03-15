@@ -11,4 +11,4 @@
 - 👯 Tenho interesse em colaborar em qualquer projeto que me faça sentir estimulado.
 - 🤔 Dicas e shortcuts sobre a carreira como desenvolvedor seriam bem-vindas.
 # 📫 Entre em contato: 
-<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>(https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152/)
+<a href="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin" alt="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" height="30" width="40" /></a>
