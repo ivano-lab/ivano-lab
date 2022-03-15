@@ -1,6 +1,6 @@
 ### yIn nI' yISIQ 'ej yIchep! :vulcan_salute:
 
-![ivano-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivano-lab&show_icons=true&theme=radical)                               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivano-lab)](https://github.com/anuraghazra/github-readme-stats)
+![ivano-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivano-lab&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivano-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Me chamo Ívano :sweat_smile:
 
