@@ -1,8 +1,13 @@
 ### yIn nI' yISIQ 'ej yIchep! :vulcan_salute:
 
-![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+![ivano-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivano-lab&show_icons=true)
 
 # Me chamo Ívano :sweat_smile:
+
+Sou desenvolvedor web com experiência em PHP, Python, JavaScript, HTML, CSS e bancos de dados MySQL e SQLite. Busco sempre evolução e aprimorando técnico, bem como a aquisição de novas habilidades e expansão de meus horizontes profissionais.
+Tenho como objetivo de vida impactar positivamente a vida das pessoas através da resolução de problemas e de criações que as possam ajudar.
+
+![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
 - 🔭 Atualmente sou desenvolvedor Web Júnior na [eorbit](https://www.eorbit.com.br/) 
 - 🌱 Estou estudando Python, PHP, JS e MySQL dentre outras tecnologias web.
