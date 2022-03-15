@@ -7,8 +7,13 @@
 - 🔭 Atualmente sou desenvolvedor Web Júnior na [eorbit](https://www.eorbit.com.br/) 
 - 🌱 Estou estudando Python, PHP, JS e MySQL dentre outras tecnologias web.
 <img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="100"/>
-![](https://cdn.svgporn.com/logos/python.svg)
-
+<img src="https://cdn.svgporn.com/logos/php.svg" alt="drawing" width="100"/>
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="drawing" width="100"/>
+<img src="https://cdn.svgporn.com/logos/.svg" alt="drawing" width="100"/>
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="100"/>
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="100"/>
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="100"/>
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="100"/>
 - 👯 Tenho interesse em colaborar em qualquer projeto que me faça sentir estimulado.
 - 🤔 Dicas e shortcuts sobre a carreira como desenvolvedor seriam bem-vindas.
 - 📫 Caso queira entrar em contato comigo este é meu perfil no [linkedIn:](https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152/) 
