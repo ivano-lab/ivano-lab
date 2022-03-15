@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente sou desenvolvedor Web Júnior na [eorbit](https://www.eorbit.com.br/) 
 - 🌱 Estou estudando Python, PHP, JS e MySQL dentre outras tecnologias web.
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="200"/>
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="100"/>
 ![](https://cdn.svgporn.com/logos/python.svg)
 
 - 👯 Tenho interesse em colaborar em qualquer projeto que me faça sentir estimulado.
