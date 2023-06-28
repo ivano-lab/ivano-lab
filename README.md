@@ -4,7 +4,7 @@
 
 # Me chamo Ívano :sweat_smile:
 
-Sou desenvolvedor web com experiência em PHP, Python, JavaScript, HTML, CSS e bancos de dados MySQL e SQLite. Busco sempre evolução e aprimorando técnico, bem como a aquisição de novas habilidades e expansão de meus horizontes profissionais.
+Sou desenvolvedor web com experiência em PHP, Python, JavaScript, HTML, CSS e bancos de dados MySQL, SQLite e  PostgreSQL. Busco sempre evolução e aprimoramento técnico, bem como a aquisição de novas habilidades e expansão de meus horizontes profissionais.
 Tenho como objetivo de vida impactar positivamente a vida das pessoas através da resolução de problemas e de criações que as possam ajudar.
 
 ![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
