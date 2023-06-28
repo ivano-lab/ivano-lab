@@ -9,7 +9,7 @@ Tenho como objetivo de vida impactar positivamente a vida das pessoas através d
 
 ![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
-- 🔭 Atualmente sou desenvolvedor Web Júnior na [eorbit](https://www.eorbit.com.br/) 
+- 🔭 Atualmente sou desenvolvedor Web freelancer e estou à procura de novas oportunidades. 
 - 🌱 Estou estudando Python, PHP, JS e MySQL dentre outras tecnologias web.
 
 <img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/php.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/git.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/mysql.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/pycharm.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="drawing" width="50"/>
