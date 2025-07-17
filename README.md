@@ -7,12 +7,6 @@ I’m passionate about solving real-world problems. I don’t build things just 
 Currently studying Software Engineering and expanding my knowledge in Artificial Intelligence and Blockchain technologies. I’ve worked professionally as a developer and continue to improve through hands-on projects, most of which you can find here on my GitHub.
 
 Always learning. Always building. Always questioning what actually needs to be solved.
-![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
-
-- 🔭 Atualmente sou desenvolvedor Web freelancer e estou à procura de novas oportunidades. 
-- 🌱 Estou estudando Python, PHP, JS e MySQL dentre outras tecnologias web.
-
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/php.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/git.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/mysql.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/pycharm.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/java.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/spring.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/typescript.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/react.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/angular.svg" alt="drawing" width="100"/><img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="drawing" width="100"/>
 
 # 📫 Contact: 
 <a href="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" target="_blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" height="100" width="400" /></a>
