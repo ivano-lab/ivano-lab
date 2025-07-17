@@ -7,5 +7,3 @@ I’m passionate about solving real-world problems. I don’t build things just 
 Currently studying Software Engineering and expanding my knowledge in Artificial Intelligence and Blockchain technologies. I’ve worked professionally as a developer and continue to improve through hands-on projects, most of which you can find here on my GitHub.
 
 Always learning. Always building. Always questioning what actually needs to be solved.
-
-<a href="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" target="_blank">My LinkedIn profile</a>
