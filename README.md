@@ -9,4 +9,4 @@ Currently studying Software Engineering and expanding my knowledge in Artificial
 Always learning. Always building. Always questioning what actually needs to be solved.
 
 # 📫 Contact: 
-<a href="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" target="_blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" height="100" width="400" /></a>
+<a href="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" target="_blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/%C3%ADvano-da-silva-cruz-fontes-509b79152" height="20" width="100" /></a>
