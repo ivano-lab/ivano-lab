@@ -1,9 +1,10 @@
-![ivano-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivano-lab&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivano-lab&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+### Projetos Ativos & Laboratórios de Engenharia
 
-I’m a self-taught software engineer — that is, if you consider taking scattered and free content from the internet and turning it into a structured, useful knowledge base to be the definition of self-learning.
-
-I’m passionate about solving real-world problems. I don’t build things just to ship features — I build to remove friction, reduce complexity, and make things that actually work for people. My interest lies not in the act of creating products, but in finding value through meaningful problem-solving.
-
-Currently studying Software Engineering and expanding my knowledge in Artificial Intelligence and Blockchain technologies. I’ve worked professionally as a developer and continue to improve through hands-on projects, most of which you can find here on my GitHub.
-
-Always learning. Always building. Always questioning what actually needs to be solved.
+* **[Pentest-Lab-Docker](https://github.com/ivano-lab/microsservices-network-pivoting):** Laboratório de segmentação de redes e movimentação lateral. 
+    * Networking (L3), Docker Bridge Networks, e Pivoting, eliminação de débito técnico em administração de sistemas Linux e redes.
+* **[Wild-E-commerce](https://github.com/wild-e-commerce):** Estudo de arquitetura de microserviços e desacoplamento de serviços.
+    * System Design, REST APIs e modelagem de dados com MySQL.
+* **[AI-Engineering-Foundation](https://github.com/ivano-lab/ai-engineering-foundation):** Implementação manual de arquiteturas de IA. Desenvolvimento de módulos em C++ para entender gestão de memória, hardware-level optimization e inferência de alta performance. Integração e visualização com JavaScript profundo, explorando o runtime e a assincronia para interfaces de IA.
+    * PyTorch, Transformers, Scaled Dot-Product Attention (math behind)
+    * hardware-lever optimization em C++
+    * Interfaces, Runtime e assincronia em JavaScript.
