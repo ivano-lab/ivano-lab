@@ -8,3 +8,7 @@
     * PyTorch, Transformers, Scaled Dot-Product Attention (math behind)
     * hardware-lever optimization em C++
     * Interfaces, Runtime e assincronia em JavaScript.
+
+---
+
+**[Estudos de Economia](https://github.com/ivano-lab/economia-estudos)**
