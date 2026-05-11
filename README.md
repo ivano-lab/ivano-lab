@@ -12,12 +12,17 @@
 ---
 
 **[Estudos de Economia](https://github.com/ivano-lab/economia-estudos)**
+
 **[Estudos de Língua Portuguesa](https://github.com/ivano-lab/)**
+
 **[Estudos de Matemática](https://github.com/ivano-lab/)**
 
 ---
 
 **[Anatomia do Estado Brasileiro](https://github.com/ivano-lab/)**
+
 **[Revista Beligerante](https://github.com/ivano-lab/)**
+
 **[Spoiler Esquecido](https://github.com/ivano-lab/spoiler-esquecido)**
+
 **[Pardajara Atelier](https://github.com/ivano-lab/)**
