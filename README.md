@@ -33,4 +33,5 @@
 Escrevo contos e romances por compulsão ou por paixão ou pelos dois:
 
 **[Ressurreição e Outras Mortes](https://github.com/ivano-lab/ressurreicao-e-outras-mortes)**
+
 **[A Mão Direita e Outros Contos Macabros Escritos Com a Mão Direita]()**
