@@ -11,7 +11,7 @@
     * hardware-lever optimization em C++
     * Interfaces, Runtime e assincronia em JavaScript.
       
-* **[sistema-cameras-volei](https://github.com/ivano-lab/):** Um sistema de replay para esportes (na real, vôlei) que lida com processamento de vídeo em tempo real, gerencia buffers de memória, grava continuamente para tocar replay de melhores lances.
+* **[sistema-cameras-volei](https://github.com/ivano-lab/replay-volei):** Um sistema de replay para esportes (na real, vôlei) que lida com processamento de vídeo em tempo real, gerencia buffers de memória, grava continuamente para tocar replay de melhores lances.
   
 * **[Toscanini-mtp](https://github.com/ivano-lab/toscanini-mtp/tree/main)** Uma infraestrutura de governança e desenvolvimento de software gerida por uma colmeia de agentes autônomos especializados, desenhada para operar com eficiência máxima, controle rígido de orçamento e mínima intervenção humana.
 
