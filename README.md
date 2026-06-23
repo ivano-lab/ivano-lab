@@ -8,7 +8,8 @@
     * PyTorch, Transformers, Scaled Dot-Product Attention (math behind)
     * hardware-lever optimization em C++
     * Interfaces, Runtime e assincronia em JavaScript.
-* **[sistema-cameras-volei](https://github.com/ivano-lab/):** 
+* **[sistema-cameras-volei](https://github.com/ivano-lab/):**
+* **[Toscanini-mtp](https://github.com/ivano-lab/toscanini-mtp/tree/main)** Uma infraestrutura de governança e desenvolvimento de software gerida por uma colmeia de agentes autônomos especializados, desenhada para operar com eficiência máxima, controle rígido de orçamento e mínima intervenção humana.
 
 ---
 
